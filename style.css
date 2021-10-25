@@ -1,4 +1,65 @@
 header {
   font-weight: bold;
+  color: rgb(24, 16, 17);
   text-align: center;
+  font-family: 'Qahiri', sans-serif;
+  font-size: x-large;
+  background-image: url(./LOGO.jpg);
+  background-position: center;
+  margin: -33px;
+  padding: 40px;
 }
+ nav ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  background-color: rgb(113, 114, 133);
+  padding: 20px 18px;
+  margin: 33px -10px;
+  border-radius: 5px;
+}
+a {
+  color: black;
+  font-family: 'Scheherazade New', serif;
+  font-size: 20px;
+}
+a:hover {
+color: rgb(77, 72, 72);
+}
+a:active {
+  font-weight: bold;
+}
+#holl {
+    font-weight: bold;
+    color: rgb(110, 110, 110);
+    text-align: center;
+    font-family: 'Qahiri', sans-serif;
+    font-size: x-large;
+    background-image: url(./hol.jpg);
+    background-position: center;
+    margin: -33px;
+    padding: 40px;
+}
+#kitchen {
+  font-weight: bold;
+  color: rgb(95, 121, 128);
+  text-align: center;
+  font-family: 'Qahiri', sans-serif;
+  font-size: x-large;
+  background-image: url(./kitch.jpg);
+  background-position: center;
+  margin: -33px;
+  padding: 40px;
+}
+#lroom {
+  font-weight: bold;
+  color: rgb(95, 121, 128);
+  text-align: center;
+  font-family: 'Qahiri', sans-serif;
+  font-size: x-large;
+  background-image: url(./quest.jpg);
+  background-position: center ;
+  margin: -33px;
+  padding: 40px;
+}
+
