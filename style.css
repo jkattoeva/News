@@ -62,4 +62,59 @@ a:active {
   margin: -33px;
   padding: 40px;
 }
+#children {
+  font-weight: bold;
+  color: rgb(148, 150, 151);
+  text-align: center;
+  font-family: 'Qahiri', sans-serif;
+  font-size: x-large;
+  background-image: url(./children.png);
+  background-position: center;
+  margin: -33px;
+  padding: 40px;
+}
+#bed {
+  font-weight: bold;
+  color: rgb(148, 150, 151);
+  text-align: center;
+  font-family: 'Qahiri', sans-serif;
+  font-size: x-large;
+  background-image: url(./bed.jpg);
+  background-position: center;
+  margin: -33px;
+  padding: 40px;
+}
+#bath {
+  font-weight: bold;
+  color: rgb(148, 150, 151);
+  text-align: center;
+  font-family: 'Qahiri', sans-serif;
+  font-size: x-large;
+  background-image: url(./bath.jpg);
+  background-position: center;
+  margin: -33px;
+  padding: 40px;
+}
+#cab {
+  font-weight: bold;
+  color: rgb(148, 150, 151);
+  text-align: center;
+  font-family: 'Qahiri', sans-serif;
+  font-size: x-large;
+  background-image: url(./cab.jpg);
+  background-position: center;
+  margin: -33px;
+  padding: 40px;
+}
 
+#out {
+  font-weight: bold;
+  color: rgb(148, 150, 151);
+  text-align: center;
+  font-family: 'Qahiri', sans-serif;
+  font-size: x-large;
+  background-image: url(./вмщк.jpg);
+  background-position: center;
+  margin: -33px;
+  padding: 40px;
+}
