@@ -7,7 +7,7 @@ header {
   background-image: url(./LOGO.jpg);
   background-position: center;
   margin: -33px;
-  padding: 40px;
+  padding: 100px;
 }
  nav ul {
   display: flex;
@@ -31,7 +31,7 @@ a:active {
 }
 #holl {
     font-weight: bold;
-    color: rgb(110, 110, 110);
+    color: rgb(29, 27, 27);
     text-align: center;
     font-family: 'Qahiri', sans-serif;
     font-size: x-large;
@@ -42,7 +42,7 @@ a:active {
 }
 #kitchen {
   font-weight: bold;
-  color: rgb(95, 121, 128);
+  color: rgb(36, 38, 39);
   text-align: center;
   font-family: 'Qahiri', sans-serif;
   font-size: x-large;
@@ -53,7 +53,7 @@ a:active {
 }
 #lroom {
   font-weight: bold;
-  color: rgb(95, 121, 128);
+  color: rgb(46, 47, 48);
   text-align: center;
   font-family: 'Qahiri', sans-serif;
   font-size: x-large;
@@ -64,7 +64,7 @@ a:active {
 }
 #children {
   font-weight: bold;
-  color: rgb(148, 150, 151);
+  color: rgb(48, 51, 53);
   text-align: center;
   font-family: 'Qahiri', sans-serif;
   font-size: x-large;
@@ -75,7 +75,7 @@ a:active {
 }
 #bed {
   font-weight: bold;
-  color: rgb(148, 150, 151);
+  color: rgb(39, 40, 41);
   text-align: center;
   font-family: 'Qahiri', sans-serif;
   font-size: x-large;
@@ -86,7 +86,7 @@ a:active {
 }
 #bath {
   font-weight: bold;
-  color: rgb(148, 150, 151);
+  color: rgb(36, 39, 41);
   text-align: center;
   font-family: 'Qahiri', sans-serif;
   font-size: x-large;
@@ -97,7 +97,7 @@ a:active {
 }
 #cab {
   font-weight: bold;
-  color: rgb(148, 150, 151);
+  color: rgb(44, 46, 48);
   text-align: center;
   font-family: 'Qahiri', sans-serif;
   font-size: x-large;
@@ -109,7 +109,7 @@ a:active {
 
 #out {
   font-weight: bold;
-  color: rgb(148, 150, 151);
+  color: rgb(51, 51, 51);
   text-align: center;
   font-family: 'Qahiri', sans-serif;
   font-size: x-large;
@@ -117,4 +117,12 @@ a:active {
   background-position: center;
   margin: -33px;
   padding: 40px;
+}
+footer {
+  color: black;
+  background-color: cadetblue;
+  font-weight: bold;
+  text-align: right;
+  padding: 50px;
+  background-image: url(./foot.jpg);
 }
